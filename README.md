@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hyan Guimarães (@hyanguimaraes), born in Brazil and father to a princess. With the main goal to change carrers and become a full-time Software Engineer.
+- 👀 I’m learning how to program from scratch, mostly through research and online courses like the ones on Alura.
+- 🌱 I’m currently studying Alura's Beginner Programmer Training. I've started with Programming logics and now, Front-End programming, creating my first professional pages.
+- 💞️ I’m looking to collaborate on anything and with anyone who is pacient enough to teach someone who's learning a new profession from scratch.
+- 📫 You can reach me on hyangt@hotmail.com
