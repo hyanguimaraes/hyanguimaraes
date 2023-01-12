@@ -33,7 +33,7 @@ I'm Hyan Nascimento Guimarães (pronounced as "Ian"), I'm 31 and I'm an Aicraft 
 <a href="https://br.linkedin.com/in/hyanguimaraes"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="LinkedIn's logo" height=50px>&nbsp;&nbsp;LinkedIn</a><br><br>
 <a href="https://cursos.alura.com.br/vitrinedev/hyangt"><img src="https://cursos.alura.com.br/assets/images/vitrine/logo-vitrinedev.svg" alt="VitrineDev's logo" height=50px>&nbsp;&nbsp;VitrineDev - Front-end portfolio</a><br><br>
 
-### Minha história na programação:
+### My programming story:
 At the end of 2020 I started studying MS Excel, taking the "Excel Training - Basic to VBA" courses on the Alura Cursos de Tecnologia platform and, when I got to the VBA part of the courses, I was fascinated by the infinite possibilities that coding provided, but at the same time, I had **many** difficulties because I never had any previous coding experience.
 **My fascination was so great that I decided I would learn how to code from scratch** and that one day I would switch carrers and work full time as a Software Engineer. So, **at the end of January 2021**, I started taking Alura's Programming Logic courses and after that I started taking the Beginner Programmer Training Program which contained courses from the basics of coding with JavaScript, passing through HTML and CSS (In the meantime I also participated on Alura's Imersão Dev 2022), ending with a git and GitHub course.
 
