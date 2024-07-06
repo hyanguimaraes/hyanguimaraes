@@ -7,17 +7,22 @@ Hyan Guimaraes - Jr. Front-end developer
 ### 👋 Olá, mundo! 😄
 
 ### Sobre mim:
-Me chamo Hyan Nascimento Guimarães, tenho 31 anos, atualmente estudando Análise e Desenvolvimento de Sistemas. Também sou Tecnólogo em Manutenção de Aeronaves atuando hoje como Controlador Técnico de Manutenção. **Meu objetivo é mudar de área de atuação e estou em busca da tão desejada primeira oportunidade no mercado de tecnologia.**
+Me chamo Hyan Nascimento Guimarães, Tecnólogo em Manutenção de Aeronaves e aluno assíduo dos cursos de programação e gestão da Alura. Atuo como Controlador Técnico de Manutenção há anos. **Meu objetivo é criar meu próprio software de gerenciamento e controle de manutenção de aeronaves e gerenciar a manutenção de uma grande frota.**
 
 ### Midias sociais
 <a href="https://br.linkedin.com/in/hyanguimaraes"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="Logo da rede social LinkedIn" height=50px>&nbsp;&nbsp;LinkedIn</a><br><br>
 <a href="https://cursos.alura.com.br/vitrinedev/hyangt"><img src="https://cursos.alura.com.br/assets/images/vitrine/logo-vitrinedev.svg" alt="Logo da página VitrineDev" height=50px>&nbsp;&nbsp;VitrineDev - Portfólio de front-end</a><br><br>
 
-### Minha história na programação:
-No final de 2020 comecei estudar Excel, fazendo os cursos da "Formação Excel - do Básico ao VBA" da plataforma Alura Cursos de Tecnologia e, chegando na parte de VBA dos cursos, fiquei fascinado com as possibilidades infinitas que a programação proporcionava, mas ao mesmo tempo, eu tinha **muita** dificuldade porque eu nunca tive nenhum contato anterior com programação.
-**Meu fascínio foi tão grande que eu decidi que iria aprender programação do zero** e um dia iria largar minha profissão atual e trabalhar full time como programador. Assim, **no fim de Janeiro de 2021** comecei a fazer os cursos de Lógica de Programação da Alura e já engatei a Formação Programador Iniciante que continha cursos desde o básico da programação com JavaScript, passando por HTML e CSS (Neste meio tempo também participei da Imersão Dev 2022), finalizando com um curso de git e GitHub. Concluí esta formação em 11/2022.
-Em seguida comecei a Formação HTML e CSS, também da Alura em que adquiri e aprimorei meus conhecimentos nestas linguagens de marcação, concluindo a Formação em 02/2023. Também neste mês, iniciei minha segunda graduação, desta vez em Análise e Desenvolvimento de Sistemas pela Estácio e quero cada vez mais me aprofundar na programação!
+### Um pouco mais sobre mim:
+Sou um profissional multifacetado, apaixonado por aviação e tecnologia, com mais de uma década de experiência diversificada. Minha trajetória profissional inclui o gerenciamento de manutenção de aeronaves e a gestão de projetos e processos complexos, sempre com foco em melhorias contínuas e conformidade com regulamentações aeronáuticas.
 
+Tenho um histórico sólido de trabalho com jatos Cessna, King Air, Caravan e helicópteros Airbus, tanto na manutenção (com Certificados de Conhecimento Técnico da ANAC em Célula e GMP) quanto no gerenciamento da manutenção. Minha expertise abrange desde a verificação de documentação e criação de roteiros de manutenção até a emissão de CVAs e relatórios de pré-compra.
+
+Além de meu domínio técnico, sou proficiente em Excel avançado e VBA, e possuo conhecimentos em Desenvolvimento Front-end. Tenho formação em linguagens como JavaScript, Python (básico), PHP (básico), SQL (intermediário), além de HTML e CSS, com mais de 40 cursos concluídos. Utilizo essas habilidades para desenvolver soluções tecnológicas inovadoras, proporcionando uma abordagem analítica e automatizada para desafios complexos, o que aumenta a eficiência e a precisão dos meus processos de trabalho.
+
+Minha carreira também inclui funções de liderança em projetos de arquitetura e comunicação visual, onde desenvolvi habilidades em coordenação de equipes, modelagem 3D, renderização e acompanhamento de projetos. Além disso, tenho experiência como desenhista industrial, criando e detalhando projetos para grandes marcas do varejo nacional.
+
+Estou sempre em busca de novas oportunidades para aplicar e expandir minhas habilidades, especialmente em ambientes que valorizem inovação e qualidade.
 Prazer em conhecê-lo e espero que nos encontremos futuramente, trabalhando em tecnologia.
 
 ---
@@ -28,14 +33,21 @@ Prazer em conhecê-lo e espero que nos encontremos futuramente, trabalhando em t
 ### 👋 Hellow, world! 😄
 
 ### About me:
-I'm Hyan Nascimento Guimarães (pronounced as "Ian"), I'm 31, currently studying Systems Analisys and Development. I'm also an Aicraft Maintenance Technologist acting as an Aicraft Maintenance Analyst. **My main objective is to switch carrers and I'm in search of the much-desired first opportunity in the technology market.**
+I'm Hyan Nascimento Guimarães (pronounced as "Ian"), I'm an Aircraft Maintenance Technologist and a regular student of Alura's programming and management courses. I have been working as an Aircraft Maintenance Analyst for years. **My goal is to create my own aircraft maintenance management and control software and manage the maintenance of a large fleet.**
 
 ### Social Media
 <a href="https://br.linkedin.com/in/hyanguimaraes"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="LinkedIn's logo" height=50px>&nbsp;&nbsp;LinkedIn</a><br><br>
 <a href="https://cursos.alura.com.br/vitrinedev/hyangt"><img src="https://cursos.alura.com.br/assets/images/vitrine/logo-vitrinedev.svg" alt="VitrineDev's logo" height=50px>&nbsp;&nbsp;VitrineDev - Front-end portfolio</a><br><br>
 
-### My programming story:
-At the end of 2020 I started studying MS Excel, taking the "Excel Training - Basic to VBA" courses on the Alura Cursos de Tecnologia platform and, when I got to the VBA part of the courses, I was fascinated by the infinite possibilities that coding provided, but at the same time, I had **many** difficulties because I never had any previous coding experience.
-**My fascination was so great that I decided I would learn how to code from scratch** and that one day I would switch carrers and work full time as a Software Engineer. So, **at the end of January 2021**, I started taking Alura's Programming Logic courses and after that I started taking the Beginner Programmer Training Program which contained courses from the basics of coding with JavaScript, passing through HTML and CSS (In the meantime I also participated on Alura's Imersão Dev 2022), ending with a git and GitHub course. I've concluded this Program on 11/2022. Then I started the HTML and CSS program, also from Alura, where I acquired and improved my knowledge in these markup languages, completing it on 02/2023. Also on February, I started my second graduation, this time in Systems Analysis and Development at Estácio and I want to go deeper and deeper into programming!
+### A little more about me:
+I am a multifaceted professional, passionate about aviation and technology, with over a decade of diverse experience. My professional journey includes managing aircraft maintenance and overseeing complex projects and processes, always focusing on continuous improvements and compliance with aviation regulations.
+
+I have a solid track record working with Cessna jets, King Air, Caravan, and Airbus helicopters, both in maintenance (holding ANAC Technical Knowledge Certificates in Airframe and Powerplant) and maintenance management. My expertise ranges from verifying documentation and creating maintenance plans to issuing Airworthiness Certificates and pre-purchase reports.
+
+In addition to my technical expertise, I am proficient in advanced Excel and VBA, and know about Front-end Development. I have training in languages such as JavaScript, basic Python, basic PHP, intermediate SQL, as well as HTML and CSS, with over 40 completed courses. I use these skills to develop innovative technological solutions, providing an analytical and automated approach to complex challenges, enhancing my work processes' efficiency and accuracy.
+
+My career also includes leadership roles in architectural and visual communication projects, where I developed skills in team coordination, 3D modeling, rendering, and project monitoring. Additionally, I have experience as an industrial designer, creating and detailing projects for major national retail brands.
+
+I always seek new opportunities to apply and expand my skills, especially in environments that value innovation and quality. If you are looking for a dedicated and competent professional to optimize your aircraft maintenance processes, let's connect!
 
 Nice to meet you and I hope we meet in the future while working with IT.
